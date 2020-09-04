@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803339224808",
+    "firebase_url": "https://loginapp-2924f.firebaseio.com",
+    "project_id": "loginapp-2924f",
+    "storage_bucket": "loginapp-2924f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803339224808:android:08ab943b30cca44a7eab5d",
+        "android_client_info": {
+          "package_name": "com.neuro.neuro_appp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803339224808-temh26mmfhnq3gdhdfjpq50bc0ahqa8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5_xotPeLYbD2rkPsUC5IPeYSqlwxrNF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803339224808-temh26mmfhnq3gdhdfjpq50bc0ahqa8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
